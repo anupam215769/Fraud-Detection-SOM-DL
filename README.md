@@ -102,16 +102,6 @@ You will sometimes see the nodes lined up in a grid, but the only function for t
 ![som](https://i.imgur.com/glC1zKA.png)
 
 
-## Credit
 
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Fraud-Detection-SOM-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Fraud-Detection-SOM-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
 
 
